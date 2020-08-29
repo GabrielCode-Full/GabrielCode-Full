@@ -2,10 +2,6 @@
 <hr>
 Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Information Systems at University of Caloocan City in Philippines.
 
-<img align= "right" height="250" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-
-</br>
-
 ### Technologies & Tools:
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -23,5 +19,6 @@ Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Informati
 </p>
 
 <!--
+<img align= "right" height="200" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcode-full&layout=compact&hide=html" alt="gabrielcode-full" /></p>
 -->
