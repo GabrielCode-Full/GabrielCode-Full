@@ -1,6 +1,6 @@
 ### Gabriel Cacayan - @GabrielCode-Full
 <hr>
-Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Information Systems at University of Caloocan City in Philippines.
+Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Information Systems at University of Caloocan City in the Philippines.
 
 ### Technologies & Tools:
 <p align="left">
@@ -14,8 +14,6 @@ Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Informati
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/sunacchi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sunacchi_" height="30" width="30" /></a>
-<a href="https://www.facebook.com/NEVERTRUSTSOME0NE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gabriel cacayan" height="30" width="30" /></a>
-<a href="https://instagram.com/cacayangabriel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cacayangabriel" height="30" width="30" /></a>
 <a href="https://www.codewars.com/users/%E3%83%9F%E3%82%AB%E3%82%B5/stats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="mystats" height="30" width="30" /></a>
 </p>
 
