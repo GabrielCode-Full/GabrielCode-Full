@@ -23,7 +23,7 @@ Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Informati
 </p>
 
 ### Portfolio: 
-  [Visit the Website.](https://gabrielcode-full.github.io/my-portfolio/)
+  [Visit the Website.](https://gabrielcode-full.github.io/)
 <!--
 <img align= "right" height="200" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcode-full&layout=compact&hide=html" alt="gabrielcode-full" /></p>
