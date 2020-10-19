@@ -1,10 +1,5 @@
 ### Gabriel Cacayan - @GabrielCode-Full
 
-
-![New Project](https://user-images.githubusercontent.com/61103022/95817604-6d791d80-0d54-11eb-9de4-1169ed556415.png)
-
-
-<hr>
 Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Information Systems at University of Caloocan City in the Philippines.
 
 ### Technologies & Tools:
