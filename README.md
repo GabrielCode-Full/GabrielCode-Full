@@ -10,10 +10,11 @@ Hi, I'm Gab and currently a 3rd year student as Bachelor of Science in Informati
 <a href="https://twitter.com/sunacchi_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sunacchi_" height="30" width="30" /></a>
 </p>
 
+<!--
 ### Portfolio: 
   [Visit the Website.](https://gabrielcode-full.github.io/)
 
-<!--
+
 <img align= "right" height="200" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcode-full&layout=compact&hide=html" alt="gabrielcode-full" /></p>
 
